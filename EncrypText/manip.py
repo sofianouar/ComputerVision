@@ -4,7 +4,7 @@ import numpy as np
 class manip:
     """
         Cette Classe contient des méthodes qui permettent de cacher un message
-        dans une image, ainsi que l'opértion inverse.
+        dans une image, ainsi que l'opération inverse.
 
         ascii_list: représenter le message par une liste de codes ascii_list
         binary_list: représenter le message par une liste de chaines binaires.
