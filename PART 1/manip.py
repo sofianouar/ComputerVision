@@ -51,7 +51,7 @@ class manip:
         h, w = image.shape
         y = 0
         x = 0
-        element = 0
+        element = 0 
         char = 0
         end_of_message = False
         while y < h and not end_of_message:
